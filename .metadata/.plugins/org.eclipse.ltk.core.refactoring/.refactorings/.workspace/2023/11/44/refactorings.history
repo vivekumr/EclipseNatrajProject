@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;SpringBootProjRest-13_ConsumerAppWithPathVarible2&apos;" deleteContents="true" description="Delete resource &apos;SpringBootProjRest-13_ConsumerAppWithPathVarible2&apos;" element1="/SpringBootProjRest-13_ConsumerAppWithPathVarible2" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1699042113518"/>
+</session>

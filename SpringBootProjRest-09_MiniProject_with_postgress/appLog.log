@@ -1,0 +1,33 @@
+2023-12-05 17:23:21,237 [INFO] com.nt.SpringBootProjRest09MiniProjectWithPostgressApplication [restartedMain] Starting SpringBootProjRest09MiniProjectWithPostgressApplication using Java 17.0.8 with PID 5516 (/Users/Java Projects/EclipseNatrajProject/SpringBootProjRest-09_MiniProject_with_postgress/target/classes started by vivekkumar in /Users/Java Projects/EclipseNatrajProject/SpringBootProjRest-09_MiniProject_with_postgress)
+2023-12-05 17:23:21,238 [INFO] com.nt.SpringBootProjRest09MiniProjectWithPostgressApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-12-05 17:23:21,255 [INFO] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-12-05 17:23:21,255 [INFO] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-12-05 17:23:21,473 [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-12-05 17:23:21,498 [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 22 ms. Found 1 JPA repository interfaces.
+2023-12-05 17:23:21,713 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2023-12-05 17:23:21,717 [INFO] org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2023-12-05 17:23:21,717 [INFO] org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/10.1.15]
+2023-12-05 17:23:21,740 [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2023-12-05 17:23:21,740 [INFO] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 485 ms
+2023-12-05 17:23:21,796 [INFO] org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-12-05 17:23:21,823 [INFO] org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 6.2.13.Final
+2023-12-05 17:23:21,824 [INFO] org.hibernate.cfg.Environment [restartedMain] HHH000406: Using bytecode reflection optimizer
+2023-12-05 17:23:21,919 [INFO] org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo [restartedMain] No LoadTimeWeaver setup: ignoring JPA class transformer
+2023-12-05 17:23:21,929 [INFO] com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2023-12-05 17:23:22,029 [INFO] com.zaxxer.hikari.pool.HikariPool [restartedMain] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@473e842
+2023-12-05 17:23:22,029 [INFO] com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2023-12-05 17:23:22,325 [INFO] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2023-12-05 17:23:22,360 [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-12-05 17:23:22,449 [WARN] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-12-05 17:23:22,558 [INFO] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2023-12-05 17:23:22,572 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2023-12-05 17:23:22,577 [INFO] com.nt.SpringBootProjRest09MiniProjectWithPostgressApplication [restartedMain] Started SpringBootProjRest09MiniProjectWithPostgressApplication in 1.474 seconds (process running for 1.761)
+2023-12-05 17:23:53,428 [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-05 17:23:53,429 [INFO] org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2023-12-05 17:23:53,429 [INFO] org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Completed initialization in 0 ms
+2023-12-05 17:24:41,523 [INFO] org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(5)-127.0.0.1] Application shutdown requested.
+2023-12-05 17:24:41,529 [INFO] org.apache.catalina.core.StandardService [RMI TCP Connection(5)-127.0.0.1] Stopping service [Tomcat]
+2023-12-05 17:24:41,530 [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [RMI TCP Connection(5)-127.0.0.1] Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-12-05 17:24:41,533 [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [RMI TCP Connection(5)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-12-05 17:24:41,535 [INFO] com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(5)-127.0.0.1] HikariPool-1 - Shutdown initiated...
+2023-12-05 17:24:41,536 [INFO] com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(5)-127.0.0.1] HikariPool-1 - Shutdown completed.

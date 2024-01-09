@@ -1,0 +1,4 @@
+127.0.0.1 - - [02/Nov/2023:23:52:13 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [02/Nov/2023:23:52:14 +0530] "GET /SpringBootProjRest-11_ProducerApp1/ HTTP/1.1" 404 275
+0:0:0:0:0:0:0:1 - - [02/Nov/2023:23:52:58 +0530] "GET /SpringBootProjRest-11_ProducerApp1wish/me HTTP/1.1" 404 797
+0:0:0:0:0:0:0:1 - - [02/Nov/2023:23:53:04 +0530] "GET /SpringBootProjRest-11_ProducerApp1/wish/me HTTP/1.1" 200 12

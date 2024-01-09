@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: vivekkumar
+Build-Jdk: 17.0.8
+Implementation-Title: spring-boot-logging
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-lo
+ gging/
+Created-By: Maven Integration for Eclipse
+

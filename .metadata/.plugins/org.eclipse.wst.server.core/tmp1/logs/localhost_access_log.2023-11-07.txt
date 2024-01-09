@@ -1,0 +1,10 @@
+127.0.0.1 - - [07/Nov/2023:06:51:24 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:06:51:24 +0530] "GET /SpringBootProjRest-13_ProducerAppWithPathvarible2/ HTTP/1.1" 404 275
+127.0.0.1 - - [07/Nov/2023:06:51:36 +0530] "GET /SpringBootProjRest-13_ProducerAppWithPathvarible2/actor/wish/2/Raja HTTP/1.1" 200 17
+127.0.0.1 - - [07/Nov/2023:06:55:58 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:06:55:59 +0530] "GET /SpringBootProjRest-13_ProducerAppWithPathvarible2/ HTTP/1.1" 404 275
+127.0.0.1 - - [07/Nov/2023:06:56:07 +0530] "GET /SpringBootProjRest-13_ProducerAppWithPathvarible2/actor/wish/900/Raja HTTP/1.1" 200 19
+127.0.0.1 - - [07/Nov/2023:06:57:39 +0530] "GET /SpringBootProjRest-13_ProducerAppWithPathvarible2/actor/wish/900/Raja HTTP/1.1" 200 28
+127.0.0.1 - - [07/Nov/2023:06:58:05 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:06:58:05 +0530] "GET /SpringBootProjRest-13_ProducerAppWithPathvarible2/ HTTP/1.1" 404 275
+127.0.0.1 - - [07/Nov/2023:06:58:13 +0530] "GET /SpringBootProjRest-13_ProducerAppWithPathvarible2/actor/wish/900/Raja HTTP/1.1" 200 28

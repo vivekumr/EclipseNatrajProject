@@ -1,0 +1,12 @@
+127.0.0.1 - - [01/Nov/2023:11:56:17 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [01/Nov/2023:11:56:17 +0530] "GET /SpringBootProjRest-09_MiniProject_with_postgress/ HTTP/1.1" 404 275
+0:0:0:0:0:0:0:1 - - [01/Nov/2023:11:58:11 +0530] "POST /SpringBootProjRest-09_MiniProject_with_postgress/book/saveBook HTTP/1.1" 201 13
+0:0:0:0:0:0:0:1 - - [01/Nov/2023:11:58:33 +0530] "POST /SpringBootProjRest-09_MiniProject_with_postgress/book/saveBook HTTP/1.1" 201 13
+0:0:0:0:0:0:0:1 - - [01/Nov/2023:11:58:41 +0530] "POST /SpringBootProjRest-09_MiniProject_with_postgress/book/saveBook HTTP/1.1" 201 13
+0:0:0:0:0:0:0:1 - - [01/Nov/2023:11:58:45 +0530] "POST /SpringBootProjRest-09_MiniProject_with_postgress/book/saveBook HTTP/1.1" 201 14
+0:0:0:0:0:0:0:1 - - [01/Nov/2023:11:58:50 +0530] "POST /SpringBootProjRest-09_MiniProject_with_postgress/book/saveBook HTTP/1.1" 201 14
+0:0:0:0:0:0:0:1 - - [01/Nov/2023:11:58:55 +0530] "POST /SpringBootProjRest-09_MiniProject_with_postgress/book/saveBook HTTP/1.1" 201 14
+0:0:0:0:0:0:0:1 - - [01/Nov/2023:11:59:00 +0530] "POST /SpringBootProjRest-09_MiniProject_with_postgress/book/saveBook HTTP/1.1" 201 14
+127.0.0.1 - - [01/Nov/2023:23:26:25 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [01/Nov/2023:23:26:25 +0530] "GET /SpringBootProjRest-11_ProducerApp1/ HTTP/1.1" 404 275
+0:0:0:0:0:0:0:1 - - [01/Nov/2023:23:26:38 +0530] "GET /SpringBootProjRest-11_ProducerApp1/wish/me HTTP/1.1" 200 12

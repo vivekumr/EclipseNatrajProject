@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="347"/>
+		<item key="DIALOG_Y_ORIGIN" value="201"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/Volumes/Vivek Disk/Java Projects/EclipseNatrajProject/SpringBootMVC_13_CURD_operation(ReferenceData)"/>
+			<item value="/Volumes/Vivek Disk/Java Projects/EclipseNatrajProject/SpringBootMVC_12_CURD_operation(Soft_Deletion)"/>
+			<item value="/Volumes/Vivek Disk/Java Projects/EclipseNatrajProject/SpringBootMVC_11_CURD_operation"/>
+			<item value="/Volumes/Vivek Disk/Java Projects/EclipseNatrajProject/SpringBootMVC_10_RequestParam"/>
+			<item value="/Volumes/Vivek Disk/Java Projects/EclipseNatrajProject/SpringBootMVC_09_ModelAttribute"/>
+			<item value="/Volumes/Vivek Disk/Java Projects/EclipseNatrajProject/SpringBootMVC_08_two_controller"/>
+			<item value="/Volumes/Vivek Disk/Java Projects/EclipseNatrajProject/SpringBootMVC_07_XXXMaping"/>
+			<item value="/Volumes/Vivek Disk/Java Projects/EclipseNatrajProject/SpringBootMVC_06_Business_logic"/>
+			<item value="/Volumes/Vivek Disk/Java Projects/EclipseNatrajProject/SpringBootMVC_05_Data_Rendering_Options"/>
+			<item value="/Volumes/Vivek Disk/Java Projects/EclipseNatrajProject/SpringBootMVC_02_FirstAppTomcatEmbededServer"/>
+			<item value="/Volumes/Vivek Disk/Java Projects/EclipseNatrajProject/SpringBootMVC_02_FirstApp(WelcomeFile)"/>
+			<item value="/Volumes/Vivek Disk/Java Projects/EclipseNatrajProject/SpringBootMVC_02_ContextPath(Embededserver)"/>
+			<item value="/Volumes/Vivek Disk/Java Projects/EclipseNatrajProject/SpringBootMVC_01_FirstApp_2_7_15"/>
+			<item value="/Volumes/Vivek Disk/Java Projects/EclipseNatrajProject/BootProject_11_RunnerInterface"/>
+			<item value="/Volumes/Vivek Disk/Java Projects/EclipseNatrajProject/BootProject_10_ProfileAnnotation"/>
+			<item value="/Volumes/Vivek Disk/Java Projects/EclipseNatrajProject/BootProject_09_PropertiesSourceAnnotation(UserDefinedPropertiesFile)"/>
+			<item value="/Volumes/Vivek Disk/Java Projects/EclipseNatrajProject/BootProject_08_ConfigurationPropertiesOnArray_List_Set_HasAproperties_yml"/>
+			<item value="/Volumes/Vivek Disk/Java Projects/EclipseNatrajProject/BootProject_07_ConfigurationProperties(Bulk_Injection)_yml"/>
+			<item value="/Volumes/Vivek Disk/Java Projects/EclipseNatrajProject/BootProject_06_ConfigurationPropertiesOnArray_List_Set_HasAproperties"/>
+			<item value="/Volumes/Vivek Disk/Java Projects/EclipseNatrajProject/BootProject_05_ConfigurationProperties(Bulk_Injection)"/>
+			<item value="/Volumes/Vivek Disk/Java Projects/EclipseNatrajProject/BootProject_04_ValueAnnotations_SPEL_filed_level"/>
+			<item value="/Volumes/Vivek Disk/Java Projects/EclipseNatrajProject/BootProject_03_Layred_app"/>
+			<item value="/Users/Java Projects/EclipseNatrajProject/SpringBootMVC_13_CURD_operation(ReferenceData)"/>
+			<item value="/Users/Java Projects/EclipseNatrajProject/SpringBootMVC_12_CURD_operation(Soft_Deletion)"/>
+			<item value="/Users/Java Projects/EclipseNatrajProject/SpringBootMVC_11_CURD_operation"/>
+			<item value="/Users/Java Projects/EclipseNatrajProject/SpringBootMVC_10_RequestParam"/>
+			<item value="/Users/Java Projects/EclipseNatrajProject/SpringBootMVC_09_ModelAttribute"/>
+			<item value="/Users/Java Projects/EclipseNatrajProject/SpringBootMVC_08_two_controller"/>
+			<item value="/Users/Java Projects/EclipseNatrajProject/SpringBootMVC_07_XXXMaping"/>
+			<item value="/Users/Java Projects/EclipseNatrajProject/SpringBootMVC_06_Business_logic"/>
+			<item value="/Users/Java Projects/EclipseNatrajProject/SpringBootMVC_05_Data_Rendering_Options"/>
+			<item value="/Users/Java Projects/EclipseNatrajProject/SpringBootMVC_02_FirstAppTomcatEmbededServer"/>
+			<item value="/Users/Java Projects/EclipseNatrajProject/SpringBootMVC_02_FirstApp(WelcomeFile)"/>
+			<item value="/Users/Java Projects/EclipseNatrajProject/SpringBootMVC_02_ContextPath(Embededserver)"/>
+			<item value="/Users/Java Projects/EclipseNatrajProject/SpringBootMVC_01_FirstApp_2_7_15"/>
+			<item value="/Users/Java Projects/EclipseNatrajProject/BootProject_11_RunnerInterface"/>
+			<item value="/Users/Java Projects/EclipseNatrajProject/BootProject_10_ProfileAnnotation"/>
+			<item value="/Users/Java Projects/EclipseNatrajProject/BootProject_09_PropertiesSourceAnnotation(UserDefinedPropertiesFile)"/>
+			<item value="/Users/Java Projects/EclipseNatrajProject/BootProject_08_ConfigurationPropertiesOnArray_List_Set_HasAproperties_yml"/>
+			<item value="/Users/Java Projects/EclipseNatrajProject/BootProject_07_ConfigurationProperties(Bulk_Injection)_yml"/>
+			<item value="/Users/Java Projects/EclipseNatrajProject/BootProject_06_ConfigurationPropertiesOnArray_List_Set_HasAproperties"/>
+			<item value="/Users/Java Projects/EclipseNatrajProject/BootProject_05_ConfigurationProperties(Bulk_Injection)"/>
+			<item value="/Users/Java Projects/EclipseNatrajProject/BootProject_04_ValueAnnotations_SPEL_filed_level"/>
+			<item value="/Users/Java Projects/EclipseNatrajProject/BootProject_03_Layred_app"/>
+		</list>
+	</section>
+	<section name="CleanDialogSettings">
+		<item key="TOGGLE_SELECTED" value="false"/>
+		<item key="DIALOG_WIDTH" value="540"/>
+		<item key="DIALOG_HEIGHT" value="367"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
+	<section name="org.eclipse.text.quicksearch.internal.ui.QuickSearchDialog.DIALOG_SETTINGS">
+		<item key="LAST_QUERY" value="prefer"/>
+		<item key="PATH_FILTER" value=""/>
+		<item key="CASE_SENSITIVE" value="true"/>
+		<item key="KEEP_OPEN" value="false"/>
+		<list key="COLUMN_WIDTHS">
+			<item value="40"/>
+			<item value="400"/>
+			<item value="134"/>
+		</list>
+		<list key="SASH_WEIGHTS">
+			<item value="714"/>
+			<item value="285"/>
+		</list>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_WIDTH" value="600"/>
+			<item key="DIALOG_X_ORIGIN" value="340"/>
+			<item key="DIALOG_Y_ORIGIN" value="39"/>
+			<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+		</section>
+	</section>
+</section>

@@ -1,0 +1,17 @@
+127.0.0.1 - - [04/Dec/2023:17:16:29 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [04/Dec/2023:17:16:29 +0530] "GET /SpringBootMVC_11_CURD_operation/ HTTP/1.1" 404 788
+127.0.0.1 - - [04/Dec/2023:17:18:18 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [04/Dec/2023:17:18:18 +0530] "GET /SpringBootMVC_11_CURD_operation/ HTTP/1.1" 404 788
+127.0.0.1 - - [04/Dec/2023:17:19:05 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [04/Dec/2023:17:19:05 +0530] "GET /SpringBootProjRest-09_MiniProject_with_postgress/ HTTP/1.1" 404 275
+0:0:0:0:0:0:0:1 - - [04/Dec/2023:17:19:29 +0530] "GET /SpringBootProjRest-09_MiniProject_with_postgress/book/getBook HTTP/1.1" 200 702
+127.0.0.1 - - [04/Dec/2023:17:41:24 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [04/Dec/2023:17:41:25 +0530] "GET /SpringBootMVC_11_CURD_operation/ HTTP/1.1" 404 788
+127.0.0.1 - - [04/Dec/2023:17:42:21 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [04/Dec/2023:17:42:21 +0530] "GET /SpringBootProjRest-09_MiniProject_with_postgress/ HTTP/1.1" 404 275
+0:0:0:0:0:0:0:1 - - [04/Dec/2023:17:42:25 +0530] "GET /SpringBootProjRest-09_MiniProject_with_postgress/book/getBook HTTP/1.1" 200 702
+127.0.0.1 - - [04/Dec/2023:20:26:56 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [04/Dec/2023:20:26:56 +0530] "GET /SpringBootProjRest-09_MiniProject_with_postgress/ HTTP/1.1" 404 275
+0:0:0:0:0:0:0:1 - - [04/Dec/2023:20:27:02 +0530] "GET /SpringBootProjRest-09_MiniProject_with_postgress/book/getBook HTTP/1.1" 200 702
+0:0:0:0:0:0:0:1 - - [04/Dec/2023:20:28:31 +0530] "GET /SpringBootProjRest-09_MiniProject_with_postgress/book/getBook HTTP/1.1" 200 702
+0:0:0:0:0:0:0:1 - - [04/Dec/2023:20:32:55 +0530] "GET /SpringBootProjRest-09_MiniProject_with_postgress/book/getBook HTTP/1.1" 200 702

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.nt.model&apos; to &apos;SpringBootProjRest-07_RequestParamAnno/src/main/java&apos;&#x0A;- Original project: &apos;SpringBootProjRest-06_XML_to_Object&apos;&#x0A;- Destination element: &apos;SpringBootProjRest-07_RequestParamAnno/src/main/java&apos;&#x0A;- Original element: &apos;SpringBootProjRest-06_XML_to_Object/src/main/java/com.nt.model&apos;" description="Copy package" destination="=SpringBootProjRest-07_RequestParamAnno/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.nt.model" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1697366018127" version="1.0"/>
+</session>

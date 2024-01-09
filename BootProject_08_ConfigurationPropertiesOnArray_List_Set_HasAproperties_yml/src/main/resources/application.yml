@@ -1,0 +1,17 @@
+org:
+  nit:
+    ename: rajesh
+    eno: 101
+    favColors: red1,green1,blue1
+    idDetails:
+      aadharid: AA44777GG667
+      passportno: IN
+      voterid: BA54777GT657
+    nickNames: bunty,chintu,sintu
+    phone-numbers: 9999999,888888,7777777,7777777
+    company:
+      addrs: Banglore
+      id: '14567'
+      name: 'HCL'
+      size: 100000
+

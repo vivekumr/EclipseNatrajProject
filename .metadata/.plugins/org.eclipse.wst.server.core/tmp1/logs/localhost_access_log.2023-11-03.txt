@@ -1,0 +1,10 @@
+127.0.0.1 - - [03/Nov/2023:00:01:10 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [03/Nov/2023:00:01:10 +0530] "GET /SpringBootProjRest-12_ConsumerApp1/ HTTP/1.1" 404 275
+127.0.0.1 - - [03/Nov/2023:00:03:35 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [03/Nov/2023:00:03:36 +0530] "GET /SpringBootProjRest-11_ProducerApp1/ HTTP/1.1" 404 275
+127.0.0.1 - - [03/Nov/2023:00:03:57 +0530] "GET /SpringBootProjRest-11_ProducerApp1/wish/me HTTP/1.1" 200 12
+127.0.0.1 - - [03/Nov/2023:00:04:48 +0530] "GET /SpringBootProjRest-11_ProducerApp1/wish/me HTTP/1.1" 200 12
+127.0.0.1 - - [03/Nov/2023:00:08:27 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [03/Nov/2023:00:08:27 +0530] "GET /SpringBootProjRest-11_ProducerApp1/ HTTP/1.1" 404 275
+127.0.0.1 - - [03/Nov/2023:00:08:37 +0530] "GET /SpringBootProjRest-11_ProducerApp1/wish/me HTTP/1.1" 200 12
+127.0.0.1 - - [03/Nov/2023:00:08:37 +0530] "GET /SpringBootProjRest-11_ProducerApp1/wish/me HTTP/1.1" 200 12
